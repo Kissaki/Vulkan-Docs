@@ -62,6 +62,7 @@ maintained in the master branch of the Khronos Vulkan Github project.
         <tag name="SEC"         author="Samsung Electronics Co., Ltd." contact="Alon Or-bach @alonorbach"/>
         <tag name="TIZEN"       author="Samsung Electronics Co., Ltd." contact="Alon Or-bach @alonorbach"/>
         <tag name="RENDERDOC"   author="RenderDoc (renderdoc.org)"     contact="baldurk@baldurk.org"/>
+        <tag name="MUMBLE"      author="Mumble (mumble.info)"          contact="kissaki@posteo.de"/>
     </tags>
 
     <!-- SECTION: Vulkan type definitions -->
